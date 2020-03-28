@@ -1,0 +1,34 @@
+Index: dosya3.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>balta\nsap\nodun\ntoprak\nkalem\nkuş\nböcek\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- dosya3.txt	(revision aa244f711cbeef85a08ac63f96ef590336758532)
++++ dosya3.txt	(date 1585334138028)
+@@ -5,3 +5,9 @@
+ kalem
+ kuş
+ böcek
++sap
++odun
++toprak
++kalem
++kuş
++böcek
+Index: dosya2.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>baltacı\ndsad klş\nkadsjl\nkadklşs\nYARAAAAAAAAAAAAAAAAAAAAAAAAAK\n\n\ndaösdmadl\ndsadsdmla\n\ndeğişiklikler yapıldı..\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- dosya2.txt	(revision aa244f711cbeef85a08ac63f96ef590336758532)
++++ dosya2.txt	(date 1585334137908)
+@@ -9,3 +9,5 @@
+ dsadsdmla
+ 
+ değişiklikler yapıldı..
++
++değişiklikler yapıldı..

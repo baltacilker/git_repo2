@@ -1,0 +1,28 @@
+Index: dosya3.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- dosya3.txt	(revision 02101ea505157b988a4f19802c6af1d5dc39f398)
++++ dosya3.txt	(date 1585333665354)
+@@ -1,1 +1,7 @@
+ balta
++sap
++odun
++toprak
++kalem
++kuş
++böcek
+Index: dosya2.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- dosya2.txt	(revision 02101ea505157b988a4f19802c6af1d5dc39f398)
++++ dosya2.txt	(date 1585333665402)
+@@ -7,3 +7,5 @@
+ 
+ daösdmadl
+ dsadsdmla
++
++değişiklikler yapıldı..
